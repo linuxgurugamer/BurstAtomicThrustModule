@@ -1,0 +1,7 @@
+ChangeLog
+
+0.1.0.0
+	Updated for KSP 1.8
+
+0.0.1.0
+	Initial Release
