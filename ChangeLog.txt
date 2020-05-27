@@ -1,5 +1,8 @@
 ChangeLog
 
+0.1.0.1
+	Disabled log spam
+
 0.1.0.0
 	Updated for KSP 1.8
 

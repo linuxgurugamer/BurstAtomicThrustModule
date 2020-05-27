@@ -300,7 +300,7 @@ namespace BurstAtomicThrustModule
                 {
                     //e.moduleEngineFX.currentThrottle = e.moduleEngineFX.requestedThrottle = f;
 
-                    Log.Info("newThrust: " + newThrust + ", e.origMaxThrust: " + e.origMaxThrust + ", e.maxIncreasedThrustPercentage: " + e.maxIncreasedThrustPercentage);
+                    //Log.Info("newThrust: " + newThrust + ", e.origMaxThrust: " + e.origMaxThrust + ", e.maxIncreasedThrustPercentage: " + e.maxIncreasedThrustPercentage);
                     if (newThrust >1)
                     {
                         
