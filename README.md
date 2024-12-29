@@ -14,5 +14,12 @@ The extra fuel used is the square of the extra thrust; for example, if the thrus
 Any movement of the throttle will automatically shut down the burst mode, and also shut down the engines for reheating
 
 
-Current Limitation
+The Orbital Utility Vehicle needs and uses this with the atomic engines in the mod
 
+Availability
+
+Download:https://spacedock.info/mod/2197/BurstAtomicThrustModule
+Source Code:  https://github.com/linuxgurugamer/BurstAtomicThrustModule/
+License:  CC-BY-4.0
+Available in CKAN
+ 
